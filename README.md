@@ -1,4 +1,5 @@
 # nlpassignment2
+Dataset-http://qwone.com/~jason/20Newsgroups/
 Document/Text classification is one of the important and typical task in supervised machine learning (ML). Assigning categories to documents, which can be a web page, library book, media articles, gallery etc. has many applications like e.g. spam filtering, email routing, sentiment analysis etc. In this article, I would like to demonstrate how we can do text classification using python, scikit-learn and little bit of NLTK.
 Disclaimer: I am new to machine learning and also to blogging (First). So, if there are any mistakes, please do let me know. All feedback appreciated.
 Let’s divide the classification problem into below steps:
